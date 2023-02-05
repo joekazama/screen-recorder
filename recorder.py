@@ -1,5 +1,5 @@
 import pyautogui
-import cv2 #py -m pip install opencv-python
+import cv2 #py -m pip install opencv-python   Also called opencv-contrib-python
 import numpy as np
 import time
 from PIL import Image #pip install Pillow
